@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @MeghanTashi
 - 👀 I’m interested in Ethical Hacking
 - 🌱 I’m currently learning JavaScript & GIT & GITHUB
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me meghantashi@gmail.com
 
 <!---
